@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PROGRAMMER236
 - 👀 I’m interested in programmer
-- 🌱 I’m currently learning c# & pyhton 
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me programmer.hope.vahid@gmail.com 
 
